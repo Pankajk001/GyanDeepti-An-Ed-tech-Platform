@@ -13,7 +13,7 @@ Welcome to StudyNotion, your gateway to a dynamic and immersive educational expe
 
   ![Home page](https://github.com/Pankajk001/StudyNotion-An-Ed-tech-Platform/assets/121424516/ea5a050d-6430-48f9-98e9-1e41f108a597)
 
-  ---
+---
 
   
 
@@ -64,7 +64,7 @@ Frameworks and libraries used:
 - CSS and Tailwind
 - Redux for state management
 
-  ---
+---
 
 ## Back-end
 
@@ -92,7 +92,7 @@ Data Models and Database Schema:
 
   ![Modals](https://github.com/Pankajk001/StudyNotion-An-Ed-tech-Platform/assets/121424516/63446260-2903-48da-a745-308d10a6b224)
 
-  ---
+---
 
 
 ## API Design
@@ -137,7 +137,7 @@ We deploy StudyNotion on cloud-based services to ensure scalability and reliabil
 - Media files: Cloudinary
 - Database: MongoDB Atlas
 
-  ---
+---
 
 ## Future Enhancements
 
@@ -150,7 +150,7 @@ To further enhance StudyNotion, we are considering:
 5. **Machine learning-powered recommendations**: Tailor courses for users (medium to high priority).
 6. **Virtual reality/augmented reality integration**: Provide immersive learning experiences (low to medium priority).
 
-   ---
+---
 
 ## Conclusion
 

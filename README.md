@@ -99,7 +99,34 @@ Data Models and Database Schema:
 
 StudyNotion's RESTful API is built with Node.js and Express.js, using JSON for data exchange. Sample endpoints include user registration, login, course retrieval, and management.
 
-Explore our API [here](insert-link-to-api-docs).
+#### Sample list of API endpoints and their functionalities:
+1.	/api/auth/signup (POST) - Create a new user (student or instructor) account.
+2.	/api/auth/login (POST) – Log in using existing credentials and generate a JWT token.
+3.	/api/auth/verify-otp (POST) - Verify the OTP sent to the user's registered email.
+4.	/api/auth/forgot-password (POST) - Send an email with a password reset link to the registered email.
+5.	/api/courses (GET) - Get a list of all available courses.
+6.	/api/courses/:id (GET) - Get details of a specific course by ID.
+7.	/api/courses (POST) - Create a new course.
+8.	/api/courses/:id (PUT) - Update an existing course by ID.
+9.	/api/courses/:id (DELETE) - Delete a course by ID.
+10.	/api/courses/:id/rate (POST) - Add a rating (out of 5) to a course.
+
+    
+#### Sample API requests and responses:
+1.	GET /api/courses: Get all courses
+●	Response: A list of all courses in the database
+2.	GET /api/courses/:id: Get a single course by ID
+●	Response: The course with the specified ID
+3.	POST /api/courses: Create a new course
+●	Request: The course details in the request body
+●	Response: The newly created course
+4.	PUT /api/courses/:id: Update an existing course by ID
+●	Request: The updated course details in the request body
+●	Response: The updated course
+5.	DELETE /api/courses/:id: Delete a course by ID
+●	Response: A success message indicating that the course has been deleted.
+
+---
 
 ## Deployment
 
@@ -109,6 +136,8 @@ We deploy StudyNotion on cloud-based services to ensure scalability and reliabil
 - Back-end: Render or Railway
 - Media files: Cloudinary
 - Database: MongoDB Atlas
+
+  ---
 
 ## Future Enhancements
 
@@ -120,6 +149,8 @@ To further enhance StudyNotion, we are considering:
 4. **Mobile app**: Enhance accessibility (high priority).
 5. **Machine learning-powered recommendations**: Tailor courses for users (medium to high priority).
 6. **Virtual reality/augmented reality integration**: Provide immersive learning experiences (low to medium priority).
+
+   ---
 
 ## Conclusion
 

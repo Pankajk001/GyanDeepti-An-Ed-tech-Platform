@@ -90,7 +90,8 @@ Data Models and Database Schema:
 - Instructor schema
 - Course schema
 
-  ![Home page](https://github.com/Pankajk001/StudyNotion-An-Ed-tech-Platform/assets/121424516/fbcadb72-dd4a-4d3e-91a2-553497adab1d)
+  [Data Models and Database Schema:](https://github.com/Pankajk001/StudyNotion-An-Ed-tech-Platform/assets/121424516/8fe66a5c-a680-4c0a-88b1-936d9dd708cc)
+)
 
   ---
 

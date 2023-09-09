@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"https://study-notion-frontent-njnx4x2hz-pankaj25ic034-satienggin.vercel.app/",
+		origin:"*",
 		credentials:true,
 	})
 )

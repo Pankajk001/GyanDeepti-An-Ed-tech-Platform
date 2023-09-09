@@ -1,6 +1,6 @@
 # StudyNotion: Revolutionizing Education with Interactive Learning
 
-#### [First Let's Take a Tour of the WebSite](https://study-notion-frontent-njnx4x2hz-pankaj25ic034-satienggin.vercel.app/)
+#### [First Let's Take a Tour of the WebSite  <--- Click Here](https://study-notion-frontent-njnx4x2hz-pankaj25ic034-satienggin.vercel.app/)
 ---
 
 Welcome to StudyNotion, your gateway to a dynamic and immersive educational experience. StudyNotion is a comprehensive ed-tech platform that empowers users to create, explore, and rate educational content. Harnessing the power of the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), StudyNotion is dedicated to:

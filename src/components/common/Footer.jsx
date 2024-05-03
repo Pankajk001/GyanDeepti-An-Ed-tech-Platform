@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made By Pankaj © 2023 GyanDeepti </div>
+          <div className="text-center">Made By Pankaj 2023 GyanDeepti© </div>
         </div>
       </div>
     </div>

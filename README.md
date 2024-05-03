@@ -1,9 +1,9 @@
-# StudyNotion: Revolutionizing Education with Interactive Learning
+# GyanDeepti: Revolutionizing Education with Interactive Learning
 
 #### [First Let's Take a Tour of the WebSite  <--- Click Here](https://study-notion-frontent-njnx4x2hz-pankaj25ic034-satienggin.vercel.app/)
 ---
 
-Welcome to StudyNotion, your gateway to a dynamic and immersive educational experience. StudyNotion is a comprehensive ed-tech platform that empowers users to create, explore, and rate educational content. Harnessing the power of the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), StudyNotion is dedicated to:
+Welcome to GyanDeepti, your gateway to a dynamic and immersive educational experience. GyanDeepti is a comprehensive ed-tech platform that empowers users to create, explore, and rate educational content. Harnessing the power of the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), GyanDeepti is dedicated to:
 
 - **Enhancing Learning**: Providing an engaging and seamless learning journey for students, making education more accessible and enjoyable.
 
@@ -11,17 +11,19 @@ Welcome to StudyNotion, your gateway to a dynamic and immersive educational expe
 
   ## The Home Page
 
-  ![Home page](https://github.com/Pankajk001/StudyNotion-An-Ed-tech-Platform/assets/121424516/ea5a050d-6430-48f9-98e9-1e41f108a597)
+ ![React   Tailwind CSS Starter Pack - Google Chrome 03-05-2024 22_58_07](https://github.com/Pankajk001/GyanDeepti-An-Ed-tech-Platform/assets/121424516/ae83ba5c-1313-479a-a0de-992f87ea43ed)
+
+)
 
 ---
 
   
 
-Let's dive into the technical details of StudyNotion:
+Let's dive into the technical details of GyanDeepti:
 
 ## System Architecture
 
-StudyNotion boasts a client-server architecture, consisting of three core components:
+GyanDeepti boasts a client-server architecture, consisting of three core components:
 
 - **Front-end**: Built with ReactJS for dynamic and responsive user interfaces.
 - **Back-end**: Developed using NodeJS and ExpressJS for robust server-side functionality.
@@ -35,7 +37,7 @@ Explore the architecture diagram
 
 ## Front-end
 
-The StudyNotion front-end, designed using Figma, offers a clean and minimalistic interface. Check out our Figma design [here](https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared).
+The GyanDeepti front-end, designed using Figma, offers a clean and minimalistic interface. Check out our Figma design [here](https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared).
 
 Key Pages:
 
@@ -68,7 +70,7 @@ Frameworks and libraries used:
 
 ## Back-end
 
-StudyNotion adopts a monolithic architecture, with Node.js and Express.js powering the backend. MongoDB serves as the primary database, offering flexible data storage.
+GyanDeepti adopts a monolithic architecture, with Node.js and Express.js powering the backend. MongoDB serves as the primary database, offering flexible data storage.
 
 Features and Functionalities:
 1. **User authentication and authorization**: Secure login and OTP verification.
@@ -97,7 +99,7 @@ Data Models and Database Schema:
 
 ## API Design
 
-StudyNotion's RESTful API is built with Node.js and Express.js, using JSON for data exchange. Sample endpoints include user registration, login, course retrieval, and management.
+GyanDeepti's RESTful API is built with Node.js and Express.js, using JSON for data exchange. Sample endpoints include user registration, login, course retrieval, and management.
 
 #### Sample list of API endpoints and their functionalities:
 1.	/api/auth/signup (POST) - Create a new user (student or instructor) account.
@@ -130,7 +132,7 @@ StudyNotion's RESTful API is built with Node.js and Express.js, using JSON for d
 
 ## Deployment
 
-We deploy StudyNotion on cloud-based services to ensure scalability and reliability:
+We deploy GyanDeepti on cloud-based services to ensure scalability and reliability:
 
 - Front-end: Vercel
 - Back-end: Render or Railway
@@ -141,7 +143,7 @@ We deploy StudyNotion on cloud-based services to ensure scalability and reliabil
 
 ## Future Enhancements
 
-To further enhance StudyNotion, we are considering:
+To further enhance GyanDeepti, we are considering:
 
 1. **Gamification features**: Boost engagement with badges and leaderboards (medium priority).
 2. **Personalized learning paths**: Customize learning journeys (high priority).
@@ -154,6 +156,6 @@ To further enhance StudyNotion, we are considering:
 
 ## Conclusion
 
-StudyNotion is on a mission to revolutionize education. Our MERN stack-powered platform offers interactive learning and empowers instructors. Stay tuned for updates as we continue to develop and improve StudyNotion. Join us on this exciting journey to transform education.
+GyanDeepti is on a mission to revolutionize education. Our MERN stack-powered platform offers interactive learning and empowers instructors. Stay tuned for updates as we continue to develop and improve GyanDeepti. Join us on this exciting journey to transform education.
 
 Thank you for being part of our educational revolution!

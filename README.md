@@ -11,7 +11,8 @@ Welcome to StudyNotion, your gateway to a dynamic and immersive educational expe
 
   ## The Home Page
 
-  ![Home page](![image](https://github.com/Pankajk001/GyanDeepti-An-Ed-tech-Platform/assets/121424516/64570df8-58f2-468c-aef7-9bb31c7e5e6f)
+ ![React   Tailwind CSS Starter Pack - Google Chrome 03-05-2024 22_58_07](https://github.com/Pankajk001/GyanDeepti-An-Ed-tech-Platform/assets/121424516/ae83ba5c-1313-479a-a0de-992f87ea43ed)
+
 )
 
 ---

@@ -11,7 +11,8 @@ Welcome to StudyNotion, your gateway to a dynamic and immersive educational expe
 
   ## The Home Page
 
-  ![Home page](https://github.com/Pankajk001/StudyNotion-An-Ed-tech-Platform/assets/121424516/ea5a050d-6430-48f9-98e9-1e41f108a597)
+  ![Home page](![image](https://github.com/Pankajk001/GyanDeepti-An-Ed-tech-Platform/assets/121424516/64570df8-58f2-468c-aef7-9bb31c7e5e6f)
+)
 
 ---
 
